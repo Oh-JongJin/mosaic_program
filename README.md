@@ -9,7 +9,7 @@ Mosaic program은 YOLOv7 기반으로 작성되었으며, 현재 **얼굴**과 *
 
 ### Python Packages
 
-#### Window >= 10
+#### Window ≧ 10
 
 Required Python packages that can be installed using `pip`:
 
