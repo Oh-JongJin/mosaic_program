@@ -1,7 +1,7 @@
 # Mosaic Program
-Mosaic program은 YOLOv7 기반으로 작성되었으며, 현재 **얼굴**과 **사람** 인식이 가능하며, **번호판** 인식은 추가 예정.
+The Mosaic program is based on YOLOv7 and currently capable of recognizing **faces** and **people**. **License plate** recognition is planned to be added in the future.
 
-
+Would you like me to explain or elaborate on any part of this translation?
 
 
 
@@ -23,7 +23,7 @@ Required Python packages that can be installed using `pip`:
 - **scipy** >= 1.10
 - **seaborn** >= 0.12
 
-PyTorch는 CUDA를 먼저 설치 후, 해당 버전에 맞는 Torch를 설치할 것.
+
 
 ```
 Example - CUDA 11.7 with PyTorch
